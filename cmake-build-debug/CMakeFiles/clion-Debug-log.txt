@@ -1,0 +1,29 @@
+C:\CMake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.3/bin/ninja/win/ninja.exe" C:\CMake\bin\cmake.exe -G Ninja -S "G:\Other computers\My MacBook Pro\Programación\traficoEscom" -B "G:\Other computers\My MacBook Pro\Programación\traficoEscom\cmake-build-debug"
+CMake Warning:
+  Ignoring extra path from command line:
+
+   "C:/CMake/bin/cmake.exe"
+
+
+CMake Warning:
+  Ignoring extra path from command line:
+
+   "C:\CMake\bin\cmake.exe"
+
+
+-- The C compiler identification is GNU 13.1.0
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/mingw64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/mingw64/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found SFML 2.6.0 in C:/SFML/lib/cmake/SFML
+-- Configuring done (6.8s)
+-- Generating done (0.1s)
+-- Build files have been written to: G:/Other computers/My MacBook Pro/Programación/traficoEscom/cmake-build-debug

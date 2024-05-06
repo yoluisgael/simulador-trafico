@@ -1,0 +1,3 @@
+G:/Other computers/My MacBook Pro/Programación/traficoEscom/cmake-build-debug/CMakeFiles/trafico.dir
+G:/Other computers/My MacBook Pro/Programación/traficoEscom/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Other computers/My MacBook Pro/Programación/traficoEscom/cmake-build-debug/CMakeFiles/rebuild_cache.dir
