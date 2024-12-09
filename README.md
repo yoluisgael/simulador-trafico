@@ -8,6 +8,9 @@ Permite ver ciertos comportamientos como:
 * Formación de congestionamientos y su disipación.
 * Efectos de densidad vehicular en la dinámica del sistema.
 
+[![Simulador de Tráfico](https://img.youtube.com/vi/MlvBdhOyccU/0.jpg)](https://www.youtube.com/watch?v=MlvBdhOyccU)
+Video de youtube.
+
 ## Características
 * Modelo matemático basado en autómatas celulares: Regla 184.
 * Representación visual: Simulación de tráfico en tiempo real.
